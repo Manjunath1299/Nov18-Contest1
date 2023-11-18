@@ -53,6 +53,8 @@ background-color: black;
 }
 #intro-heading{
     font-size: 40px;
+    font-family:  'Montserrat', sans-serif;
+    font-weight: bolder;
 }
 .intro-login{
     width:35%;
