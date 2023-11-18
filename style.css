@@ -74,6 +74,8 @@ background-color: black;
 .form-sec h1{
     font-size: 30px;
     color: #FCAF02;
+    font-family:  'Montserrat', sans-serif;
+    font-weight: bolder;
 }
 .form-sec input{
     border-radius: 50px;
